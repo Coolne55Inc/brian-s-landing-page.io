@@ -1,0 +1,21 @@
+body {
+    font-family: cursive;
+    text-align: center;
+    background-color: black;
+    width: 80%;
+    max-width: 1000px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+h1, ul, ol{
+    color: silver;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;  /* Example width */
+    border: solid white 4px;
+    border-radius: 30%;
+}
